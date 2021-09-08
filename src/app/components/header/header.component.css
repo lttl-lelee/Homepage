@@ -1,0 +1,10 @@
+.navbar{
+  position: relative;
+  margin: 50px 200px 0 200px;
+  box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.1);
+  border-radius: 34px;
+  background: #FEFEFE;
+}
+.navbar-nav{
+margin-inline-end: auto;
+}
