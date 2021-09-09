@@ -1,7 +1,7 @@
 {
   "name": "singlepage",
   "version": "0.0.0",
-  "homepage": "https://github.com/lttl-lelee/Homepage",
+  "homepage": "https://lttl-lelee.github.io/Homepage",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
