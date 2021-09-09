@@ -1,10 +1,85 @@
+.nav-brand{
+  text-decoration: none;
+  margin: 0px 300px 0px 10px;
+  font-size: 40px;
+  color: #2B2D42;
+  font-weight: bold;
+}
 .navbar{
   position: relative;
-  margin: 50px 200px 0 200px;
+  margin: 50px 200px 50px 200px;
   box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.1);
   border-radius: 34px;
   background: #FEFEFE;
 }
-.navbar-nav{
+.nav-link{
 margin-inline-end: auto;
+margin: 0px 20px;
+position: relative;
+font-family: Roboto;
+font-weight: bold;
+font-size: 26px;
+color: #2B2D42;
+}
+.btn-1{
+  margin: 0px 150px;
+  position: relative;
+  background:#D80032;
+  border-radius: 28px;
+  border: 1px solid #D80032;
+  width: 200px;
+  height: 60px;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 26px;
+  color: #FEFEFE;
+}
+.masthead{
+  margin: 50px 200px 50px 200px;
+  height: 800px;
+}
+.masthead p{
+  font-family: Roboto;
+  font-size: 30px;
+  line-height: 28px;
+  color: #2B2D42;
+  margin: 300px 0px 0px 10px;
+  font-weight: bold;
+}
+.masthead h2{
+  margin: 20px 0px 0px 0px;
+  color: #D80032;
+  font-size: 50px;
+  font-weight: bold;
+}
+.masthead h1{
+  margin: 20px 0px 0px 15px;
+  color: #2B2D42;
+  font-size: 50px;
+  font-weight: bold;
+}
+.btn-2{
+  position: relative;
+  background: #D80032;
+  border-radius: 24px;
+  border: 1px solid #D80032;
+  width: 150px;
+  height: 50px;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 18px;
+  color: #FEFEFE;
+}
+.btn-3{
+  position: relative;
+  margin: 30px 0px 0px 30px;
+  background: #41EAD4;
+  border-radius: 24px;
+  border: 1px solid #41EAD4;
+  width: 150px;
+  height: 50px;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 18px;
+  color: #2B2D42;
 }
